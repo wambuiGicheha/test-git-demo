@@ -29,3 +29,13 @@ function multiply(a,b){
 const mymul = multiply(11,4);
 console.log('mymul', mymul);
 
+function modulus(a,b){
+
+  return (a % b);
+
+}
+const mymod = modulus(11,2);
+console.log('mymod', mymod);
+
+
+
