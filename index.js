@@ -14,3 +14,12 @@ function subtract(a,b){
 
 const mysub = subtract(11,4);
 console.log('mysub', mysub);
+
+function divide(a,b){
+
+  return (a / b);
+
+}
+
+const mydiv = divide(10,2);
+console.log('mydiv', mydiv);
