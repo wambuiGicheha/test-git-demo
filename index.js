@@ -23,3 +23,9 @@ function divide(a,b){
 
 const mydiv = divide(10,2);
 console.log('mydiv', mydiv);
+function multiply(a,b){
+  return a * b;
+}
+const mymul = multiply(11,4);
+console.log('mymul', mymul);
+
